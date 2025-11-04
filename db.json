@@ -4,8 +4,81 @@
       "id": 1,
       "title": "Blinding Lights",
       "artist": "The Weeknd",
-      "cover": "https://link_to_album_art.jpg",
-      "src": "https://p.scdn.co/mp3-preview/...mp3"
+      "lang": "English",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2731192ae62dfe52262a3cc3fed",
+      "src": "https://p.scdn.co/mp3-preview/6b6f41dfd3b056b1f4f8e3a82e8fefb42c2e60c8?cid=774b29d4f13844c495f206cafdad9c86"
+    },
+    {
+      "id": 2,
+      "title": "Shape of You",
+      "artist": "Ed Sheeran",
+      "lang": "English",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2735a0b8a8a3bb5d708c6c10a47",
+      "src": "https://p.scdn.co/mp3-preview/8a8c8b25f0b70c4dc7b6b35d5d4f4c9b58e1e21b?cid=774b29d4f13844c495f206cafdad9c86"
+    },
+    {
+      "id": 3,
+      "title": "Taki Taki",
+      "artist": "DJ Snake ft. Selena Gomez, Ozuna, Cardi B",
+      "lang": "Spanish",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27344b68ebfbc53d9b75ebd40d6",
+      "src": "https://p.scdn.co/mp3-preview/01a870b890f4ecf1db74a22e23b8c1e5b12e73e2?cid=774b29d4f13844c495f206cafdad9c86"
+    },
+    {
+      "id": 4,
+      "title": "Despacito",
+      "artist": "Luis Fonsi ft. Daddy Yankee",
+      "lang": "Spanish",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2739a2a1c4214cbe0d8eb84b93e",
+      "src": "https://p.scdn.co/mp3-preview/22a60d6f6d295a4374b624fc927e4f06ad1c6d2b?cid=774b29d4f13844c495f206cafdad9c86"
+    },
+    {
+      "id": 5,
+      "title": "Why This Kolaveri Di",
+      "artist": "Dhanush",
+      "lang": "Tamil",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/6/6c/Why_this_kolaveri_di.jpg",
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3"
+    },
+    {
+      "id": 6,
+      "title": "Naatu Naatu",
+      "artist": "Rahul Sipligunj & Kaala Bhairava",
+      "lang": "Telugu",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/8/8f/Naatu_Naatu_song_cover.jpg",
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
+    },
+    {
+      "id": 7,
+      "title": "Tum Hi Ho",
+      "artist": "Arijit Singh",
+      "lang": "Hindi",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/2/23/Tum_Hi_Ho_cover.jpg",
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3"
+    },
+    {
+      "id": 8,
+      "title": "Gangnam Style",
+      "artist": "PSY",
+      "lang": "Korean",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/0/09/Gangnam_Style_Album_Cover.png",
+      "src": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3"
+    },
+    {
+      "id": 9,
+      "title": "Señorita",
+      "artist": "Shawn Mendes & Camila Cabello",
+      "lang": "English",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273bd05e1b2675cbfef03c2c4c9",
+      "src": "https://p.scdn.co/mp3-preview/ff4cc5b8c99e39de63a9447dd3b00347c5c2ce94?cid=774b29d4f13844c495f206cafdad9c86"
+    },
+    {
+      "id": 10,
+      "title": "Believer",
+      "artist": "Imagine Dragons",
+      "lang": "English",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273eeff8f0a7c3e33e0497d5d9b",
+      "src": "https://p.scdn.co/mp3-preview/ea76f76e40d4d4a2a4d4e7c841a95f463b3a75d9?cid=774b29d4f13844c495f206cafdad9c86"
     }
   ]
 }
