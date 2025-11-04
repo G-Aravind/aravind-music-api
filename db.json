@@ -1,0 +1,11 @@
+{
+  "songs": [
+    {
+      "id": 1,
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "cover": "https://link_to_album_art.jpg",
+      "src": "https://p.scdn.co/mp3-preview/...mp3"
+    }
+  ]
+}
